@@ -1,0 +1,1 @@
+I am De-Great. A software developer growing into an engineer.

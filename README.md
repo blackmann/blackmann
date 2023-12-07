@@ -9,7 +9,7 @@ I like anything chocolate 🍫 🍩 and I feel like I'm dying when I'm not learn
 #### Relevant links:
 
 - [Homepage](https://degreat.co.uk)
-- [Discord - it's fun there](https://discord.gg/5CDnysz)
+- [My Discord - it's fun there](https://discord.gg/5CDnysz)
 - [Youtube](https://youtube.com/@notgr)
 - [Mangobase - Low code backend framework for Javascript](https://degreat.co.uk/mangobase)
 - [DotLocal - Create .local domains for your web projects](https://degreat.co.uk/dotlocal)

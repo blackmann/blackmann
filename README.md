@@ -13,6 +13,7 @@ I like anything chocolate 🍫 🍩 and I feel like I'm dying when I'm not learn
 - [Youtube](https://youtube.com/@notgr)
 - [Mangobase - Low code backend framework for Javascript](https://degreat.co.uk/mangobase)
 - [DotLocal - Create .local domains for your web projects](https://degreat.co.uk/dotlocal)
+- [compa.so](https://compa.so)
 
 If you find my stuff interesting, consider sponsoring me 😊. 
 

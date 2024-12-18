@@ -11,6 +11,7 @@ I like anything chocolate 🍫 🍩 and I feel like I'm dying when I'm not learn
 - [Homepage](https://degreat.co.uk)
 - [My Discord - it's fun there](https://discord.gg/5CDnysz)
 - [Youtube](https://youtube.com/@notgr)
+- [USSDK](https://ussdk.me)
 - [Mangobase - Low code backend framework for Javascript](https://degreat.co.uk/mangobase)
 - [DotLocal - Create .local domains for your web projects](https://degreat.co.uk/dotlocal)
 - [compa.so](https://compa.so)
